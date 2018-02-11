@@ -1,0 +1,11 @@
+The CPU has multiple cores. This mean that they can run multiple fetch execute cycles at the same time. #ReviseCompSci
+GHz is the number of fetch execute cycles that can be run in a second. 3GHz means 3 billion cycles per second. #ReviseCompSci
+Secondary storage is used to perminently store data until it is deleted by the user.  #ReviseCompSci
+Magnetic hard drives typically hold more data than SSD and are cheaper.  #ReviseCompSci
+SSD hard drives are faster than magnetic hard drives, but they cost more.  #ReviseCompSci
+Remember to write USB pen drives and not just USB.  #ReviseCompSci
+Opitcal disks include CD, DVD and Bluray. They use a laser to read and write the data to the disk by burning pits into the surface. If the laser is reflected, it represents a 1, if its not because the laser has hit a pit then it's a 0. #ReviseCompSci
+Networks can be defined as 2 or more devices (nodes) connected together either wirelessly or by a wired connection.  #ReviseCompSci
+Computer devices must have Network Interface Cards (NIC) to connect to a network. Other important network equipment include switches, hubs, servers, ethernet cables, access points and routers. #ReviseCompSci
+LAN is a local area network. This means all the computers are connected on one site. A WAN is a wide area network and is spread over a large geographical area.  #ReviseCompSci
+There are many different network topologies such as ring, star, bus and mesh. Google them to see what they look like. #ReviseCompSci
